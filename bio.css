@@ -79,6 +79,7 @@
     font-size: 25px;
     color: rgb(243, 16, 16);
   }
+  
   .members .box .imgbox {
     position: relative;
     overflow: hidden;
@@ -164,6 +165,10 @@
   a:hover {
     font-weight: 550;
     text-shadow: red 0 0 28px;
+  }
+  a:hover {
+    font-weight: 550;
+    text-shadow: rgb(155, 47, 255) 0 0 28px;
   }
   .menu-wrap .toggler {
     position: absolute;
